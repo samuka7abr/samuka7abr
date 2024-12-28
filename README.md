@@ -16,7 +16,6 @@
        <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
        <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask" height="30"/>
        <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
-       <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
    </p>
   
 ---
