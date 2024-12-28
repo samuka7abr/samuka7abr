@@ -7,15 +7,19 @@
 - 🎓 **Engenharia de Software** – 3º semestre  
 - 💻 **Desenvolvedor Full Stack Web**  
 - 🛠️ **Tech Stack:**  
-   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)  
-   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)  
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  
-   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
-   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
-   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)  
-   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+   <p align="left">
+      <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5" />
+      <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6" />
+      <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+      <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
+      <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+      <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+      <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask" />
+      <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+      <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+      <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" />
+      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+   </p>
   
 ---
 
