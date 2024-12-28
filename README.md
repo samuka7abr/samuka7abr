@@ -30,8 +30,7 @@
 
 ## 🌍 **Redes Sociais**  
 - 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
-- 💼 **LinkedIn:** [Samuel Abrão]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/))  
+- 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)   
 
 ---
 
-![Visitantes](https://komarev.com/ghpvc/?username=samuka7abr&label=Visitantes&color=blue&style=flat)  
