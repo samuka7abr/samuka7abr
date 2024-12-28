@@ -17,8 +17,7 @@
       <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask" />
       <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
       <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
-      <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" />
-      <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+      
    </p>
   
 ---
