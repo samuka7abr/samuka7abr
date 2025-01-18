@@ -1,5 +1,5 @@
 #  **Olá! Eu sou Samuel**  
-### **Estudante de Engenharia de Software | Focado em Desenvolvimento Full Stack Web e Ciências de Dados**
+### **Estudante de Engenharia de Software | Focado em Desenvolvimento Full Stack Web**
 
 ---
 
