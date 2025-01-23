@@ -1,11 +1,11 @@
-#  **Olá! Eu sou Samuel**  
-### **Estudante de Engenharia de Software | Focado em Desenvolvimento Full Stack Web**
+# **Hi there! I'm Samuel**  
+### **Software Engineering Student | Focused on Full Stack Web Development**
 
 ---
 
-## 🚀 **Sobre mim**  
-- 🎓 **Engenharia de Software** – 3º semestre  
-- 💻 **Desenvolvedor Full Stack Web**  
+## 🚀 **About Me**  
+- 🎓 **Software Engineering** – 3rd semester  
+- 💻 **Full Stack Web Developer**  
 - 🛠️ **Tech Stack:**  
    <p align="left">
        <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30"/>
@@ -18,21 +18,21 @@
        <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
    </p>
 
-  
 ---
 
-## 📊 **Estatísticas do GitHub**  
+## 📊 **GitHub Stats**  
 
-<div align="center"> <a href="https://github.com/samuka7abr"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&layout=compact&exclude_repo=Modelagem-E-Programacao-Estatistica&theme=dark"/> </a> </div>
-
-
+<div align="center"> 
+  <a href="https://github.com/samuka7abr"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&layout=compact&exclude_repo=Modelagem-E-Programacao-Estatistica&theme=dark"/> 
+  </a> 
+</div>
 
 ---
 
-## 🌍 **Redes Sociais**  
+## 🌍 **Social Media**  
 - 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
 - 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
 
 ---
-
-
