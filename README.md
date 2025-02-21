@@ -25,7 +25,7 @@
 <div align="center"> 
   <a href="https://github.com/samuka7abr"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&layout=compact&exclude_repo=Modelagem-E-Programacao-Estatistica-IDP,Jogo-da-cobrinha-c-&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&layout=compact&exclude_repo=MPE-IDP,Jogo-da-cobrinha-c-&theme=dark"/>
 
   </a> 
 </div>
