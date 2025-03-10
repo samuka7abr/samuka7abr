@@ -37,6 +37,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
     <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite" height="30"/>
+    <img src="https://img.shields.io/badge/-Knex.js-333333?style=flat&logo=knex.js&logoColor=white" height="30"/>
 </p>
 
 ### **🛠️ Ferramentas e Controle de Versão**  
