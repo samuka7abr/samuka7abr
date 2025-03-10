@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" height="30"/>
 </p>
 
-### **📦 DevOps & Outros**  
+### **📦 Sistemas Operacionais**  
 <p align="left">
     <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
     <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian" height="30"/>
