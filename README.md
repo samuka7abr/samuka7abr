@@ -21,7 +21,7 @@
 ### **🌐 Frontend**  
 <p align="left">
     <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="30"/>
-    <img src="https://img.shields.io/badge/-Styled_Components-333333?style=flat&logo=styled-components" height="30"/>
+    <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=flat&logo=styled-components" height="30"/>
     <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css" height="30"/>
     <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" height="30"/>
 </p>
