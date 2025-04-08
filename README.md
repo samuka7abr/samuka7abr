@@ -30,6 +30,7 @@
 <p align="left">
     <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="30"/>
     <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" height="30"/>
+    <img src="https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify&logoColor=white" height="30"/>
     <img src="https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask" height="30"/>
 </p>
 
@@ -72,5 +73,3 @@
 ## 🌍 **Social Media**  
 - 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
 - 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
-
----
