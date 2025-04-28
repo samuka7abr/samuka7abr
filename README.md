@@ -69,7 +69,7 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/samuka7abr?border=0&radius=20" height="200" />
+  <img src="https://leetcard.jacoblin.cool/samuka7abr?border=2&radius=20" height="200" />
 </div>
 
 ---
