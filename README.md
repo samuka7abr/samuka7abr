@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" height="30"/>
 </p>
 
-### **💽 Backend**  
+### **🖥️ Backend**  
 <p align="left">
     <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="30"/>
     <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" height="30"/>
@@ -69,12 +69,12 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20" height="200" />
+  <img src="https://leetcard.jacoblin.cool/samuka7abr?border=0&radius=20" height="200" />
 </div>
 
 ---
 
 ## 🌍 **Social Media**  
-- 📧 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
+- 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
 - 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
 - 🌐 **Portfólio:** [Portifólio](https://portifolio-lyart-three-23.vercel.app)
