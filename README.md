@@ -73,5 +73,5 @@
 ## 🌍 **Social Media**  
 - 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
 - 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
-- 🌐 **Portfólio:** [https://portifolio-lyart-three-23.vercel.app](https://portifolio-lyart-three-23.vercel.app)
+- 🌐 **Portfólio:** [Portifólio](https://portifolio-lyart-three-23.vercel.app)
 
