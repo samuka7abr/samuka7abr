@@ -64,9 +64,10 @@
 <div align="center">  
   <a href="https://github.com/samuka7abr">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/>  
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&layout=compact&exclude_repo=MPE-IDP&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=html,css&langs_count=15&exclude_repo=MPE-IDP&layout=compact&theme=dark)"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=html,css&langs_count=15&exclude_repo=MPE-IDP&layout=compact&theme=dark"/>
   </a>  
 </div>
+
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/samuka7abr?border=2&radius=20" height="200" />
