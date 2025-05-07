@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" height="30"/>
     <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
     <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" height="30"/>
+    <img src="https://img.shields.io/badge/-Shell-333333?style=flat&logo=gnu-bash" height="30"/>
 </p>
 
 ### **🌐 Frontend**  
