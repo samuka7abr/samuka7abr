@@ -69,10 +69,13 @@
   </a>  
 </div>
 
+<br/>
 
 <div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=samuka7abrr&theme=dark" height="200" />
   <img src="https://leetcard.jacoblin.cool/samuka7abr?border=2&radius=20" height="200" />
 </div>
+
 
 ---
 
