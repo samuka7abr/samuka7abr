@@ -6,7 +6,8 @@
 ## 🚀 **About Me**  
 - 🎓 **Software Engineering** – 3rd semester  
 - 💻 **Full Stack Web Developer**  
-- 🛠️ **Tech Stack:**  
+- 🛠️ **Tech Stack:**
+
 
 ### **💻 Linguagens de Programação**  
 <p align="left">
@@ -70,11 +71,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=samuka7abrr&theme=dark" height="200" />
-</div>
-
 
 ---
 
