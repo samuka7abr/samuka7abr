@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30"/>
     <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" height="30"/>
     <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
+    </br>
     <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" height="30"/>
     <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
     <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" height="30"/>
