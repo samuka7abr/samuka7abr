@@ -85,7 +85,7 @@
 <div align="center">  
   <a href="https://github.com/samuka7abr">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=html,css&langs_count=10&layout=compact&theme=dark"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=html,css&langs_count=25&exclude_repo=MPE-IDP&layout=compact&theme=dark"/>
   </a>  
 </div>
 
