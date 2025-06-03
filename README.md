@@ -20,7 +20,7 @@
 
 ---
 
-### **🔐 DevSecOps & Infrastructure**
+### **🔐 DevSecOps (learning) & Infrastructure**
 <p align="left">
     <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions&logoColor=white" height="30"/>
