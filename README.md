@@ -1,4 +1,4 @@
-# **Hi there! I'm Samuel 👨‍💻**  
+# **Hi there! I'm Samuel**  
 ### **Software Engineering Student | Back-End Focused + DevSecOps Enthusiast**
 
 ---
