@@ -29,7 +29,7 @@
 
 ---
 
-### **🗃️ Databases**
+### **🗄️ Databases**
 <p align="left">
     <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" height="30"/>
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🎨 **Frontend Essentials**
+### 🌐 **Frontend Essentials**
 <p align="left">
     <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="30"/>
     <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=flat&logo=styled-components" height="30"/>
@@ -52,9 +52,10 @@
 <p align="left">
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
-    <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" height="30"/>
     <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" height="30"/>
     <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" height="30"/>
+    <img src="https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim" height="30"/>
+    <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" height="30"/>
 </p>
 
 ---
@@ -62,10 +63,10 @@
 ### **💻 Programming Languages**
 <p align="left">
     <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" height="30"/>
-    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30"/>
     <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
-    <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" height="30"/>
     <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30"/>
+    <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" height="30"/>
     <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" height="30"/>
 </p>
 
@@ -73,9 +74,9 @@
 
 ### **🖥️ Operating Systems**
 <p align="left">
-    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
     <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian" height="30"/>
     <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" height="30"/>
+    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
 </p>
 
 ---
