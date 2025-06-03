@@ -20,7 +20,7 @@
 
 ---
 
-### **🔐 DevSecOps (learning) & Infrastructure**
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20"/> DevSecOps (learning) & Infrastructure</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions&logoColor=white" height="30"/>
@@ -29,7 +29,7 @@
 
 ---
 
-### **🗄️ Databases**
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> Databases</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" height="30"/>
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
@@ -39,7 +39,7 @@
 
 ---
 
-### 🌐 **Frontend Essentials**
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> Frontend Essentials</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="30"/>
     <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=flat&logo=styled-components" height="30"/>
@@ -48,7 +48,7 @@
 
 ---
 
-### **🧰 Tools & Version Control**
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/> Tools & Version Control</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
@@ -72,7 +72,7 @@
 
 ---
 
-### **🖥️ Operating Systems**
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/> Operating Systems</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian" height="30"/>
     <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" height="30"/>
@@ -86,7 +86,7 @@
 <div align="center">  
   <a href="https://github.com/samuka7abr">  
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/>  
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=html,css&langs_count=25&exclude_repo=MPE-IDP&layout=compact&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=html,css&langs_count=25&exclude_repo=MPE-IDP&layout=compact&theme=dark"/>
   </a>  
 </div>
 
