@@ -62,6 +62,15 @@
 
 ---
 
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/> Operating Systems</h3>
+<p align="left">
+    <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian" height="30"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" height="30"/>
+    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
+</p>
+
+---
+
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> Frontend Essentials</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="30"/>
@@ -71,14 +80,6 @@
 
 ---
 
-<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/> Operating Systems</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian" height="30"/>
-    <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" height="30"/>
-    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
-</p>
-
----
 
 ## 📈 **GitHub Stats**
 
