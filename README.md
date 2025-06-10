@@ -9,6 +9,17 @@
 - 🛠️ **Tech Stack:**
 
 ---
+### **💻 Programming Languages**
+<p align="left">
+    <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" height="30"/>
+    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
+    <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30"/>
+    <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" height="30"/>
+    <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" height="30"/>
+</p>
+
+---
 
 ### **🧠 Back-End & APIs**
 <p align="left">
@@ -39,15 +50,6 @@
 
 ---
 
-<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> Frontend Essentials</h3>
-<p align="left">
-    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="30"/>
-    <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=flat&logo=styled-components" height="30"/>
-    <img src="https://img.shields.io/badge/-Framer_Motion-333333?style=flat&logo=framer" height="30"/>
-</p>
-
----
-
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/> Tools & Version Control</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
@@ -60,14 +62,11 @@
 
 ---
 
-### **💻 Programming Languages**
+<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> Frontend Essentials</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" height="30"/>
-    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="30"/>
-    <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" height="30"/>
-    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="30"/>
-    <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" height="30"/>
-    <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql" height="30"/>
+    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="30"/>
+    <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=flat&logo=styled-components" height="30"/>
+    <img src="https://img.shields.io/badge/-Framer_Motion-333333?style=flat&logo=framer" height="30"/>
 </p>
 
 ---
