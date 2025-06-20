@@ -6,6 +6,7 @@
 ## 🚀 **About Me**  
 - 🎓 Currently in the 3rd semester of **Software Engineering**  
 - 🔐 Focused on **Back-End Development** and learning **DevSecOps**  
+- 🔥 Passionate about Competitive Programming [![LeetCode user samuka7abr](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsamuka7abr&logo=leetcode&logoColor=yellow)](https://leetcode.com/samuka7abr/) [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=samuka7abrr)](https://codeforces.com/profile/samuka7abrr)
 - 🛠️ **Tech Stack:**
 
 ---
