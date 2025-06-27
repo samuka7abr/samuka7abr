@@ -41,14 +41,16 @@
 
 ---
 
+
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> Databases</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" height="30"/>
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
-    <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite" height="30"/>
-    <img src="https://img.shields.io/badge/-Knex.js-333333?style=flat&logo=knex.js&logoColor=white" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248" height="30"/>
+    <img src="https://img.shields.io/badge/-Knex.js-333333?style=flat&logo=knex.js&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=white" height="30"/>
 </p>
+
 
 ---
 
