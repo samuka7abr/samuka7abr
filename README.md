@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248" height="30"/>
     <img src="https://img.shields.io/badge/-Knex.js-333333?style=flat&logo=knex.js&logoColor=white" height="30"/>
-    <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=0C344B" height="30"/>
 </p>
 
 
@@ -58,9 +58,9 @@
 <p align="left">
     <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="30"/>
     <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="30"/>
-    <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" height="30"/>
+    <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=42008E" height="30"/>
     <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" height="30"/>
-    <img src="https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim" height="30"/>
+    <img src="https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim&logoColor=019833" height="30"/>
     <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" height="30"/>
 </p>
 
@@ -68,9 +68,10 @@
 
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/> Operating Systems</h3>
 <p align="left">
-    <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian" height="30"/>
+    <img src="https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian&logoColor=D70A53" height="30"/>
     <img src="https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu" height="30"/>
-    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=windows" height="30"/>
+    <img src="https://img.shields.io/badge/-Windows_10-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMCAwSDU2LjZ2NTYuNkgwVjB6TTcxLjQgMEgxMjh2NTYuNkg3MS40VjB6TTAgNzEuNGg1Ni42VjEyOEgwVjcxLjR6TTcxLjQgNzEuNEgxMjhWMTI4SDcxLjRWM3owIiBmaWxsPSIjMDA3OEQ0Ii8+PC9zdmc+" height="30"/>
+    <img src="https://img.shields.io/badge/-Rocky_Linux-333333?style=flat&logo=rocky-linux&logoColor=DC3545" height="30"/>
 </p>
 
 ---
