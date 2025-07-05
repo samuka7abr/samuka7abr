@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia" />
-  <img src="https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim" />
   <img src="https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman" />
 </p>
