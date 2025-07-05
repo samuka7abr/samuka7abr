@@ -46,7 +46,7 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Knex.js-333333?style=for-the-badge&logo=knex.js" />
-  <img src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma" />
+  <img src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma&logoColor=282B6B" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia" />
   <img src="https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim" />
+  <img src="https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim&logoColor=019733" />
   <img src="https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman" />
 </p>
 
@@ -65,7 +65,7 @@
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Operating Systems**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian" />
+  <img src="https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian&logoColor=A80030" />
   <img src="https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu" />
   <img src="https://img.shields.io/badge/-Windows_10-333333?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/-Rocky_Linux-333333?style=for-the-badge&logo=rocky-linux" />
