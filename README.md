@@ -6,7 +6,16 @@
 ## 🚀 **About Me**
 - 🎓 Currently in the 4th semester of **Software Engineering**
 - 🔐 Focused on **Back-End Development** and learning **DevSecOps**
-- 🔥 Passionate about Competitive Programming [![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=samuka7abrr&style=for-the-badge)](https://codeforces.com/profile/samuka7abrr)
+- 🔥 Passionate about Competitive Programming  
+  <a href="https://codeforces.com/profile/samuka7abrr">
+    <span style="vertical-align:middle; line-height:1;">
+      <img 
+        src="https://codeforces-readme-stats.vercel.app/api/badge?username=samuka7abrr&style=for-the-badge" 
+        alt="Codeforces Badge" 
+        style="vertical-align:middle; display:inline-block; line-height:1;"
+      />
+    </span>
+  </a>
 - 🛠️ **Tech Stack:**
 
 ---
