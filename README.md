@@ -35,7 +35,6 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/-Knex.js-333333?style=for-the-badge&logo=knex.js" />
   <img src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma" />
