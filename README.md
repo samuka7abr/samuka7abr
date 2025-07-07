@@ -41,7 +41,7 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:20px;height:20px;vertical-align:middle;filter:grayscale(1) brightness(0) invert(1);" /> **DevOps (learning) & Infrastructure**
+### 💲**DevOps (learning) & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
