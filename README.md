@@ -1,5 +1,5 @@
 # **Hi there! I'm Samuel**
-### **Software Engineering Student | Back-End Focused + DevSecOps Enthusiast**
+### **Software Engineering Student | Back-End Focused + DevOps Enthusiast**
 
 ---
 
