@@ -5,7 +5,7 @@
 
 ## 🚀 **About Me**
 - 🎓 Currently in the 4th semester of **Software Engineering**
-- 🔐 Focused on **Back-End Development** and learning **DevSecOps**
+- 🔐 Focused on **Back-End Development** and learning **DevOps**
 - 🔥 Passionate about Competitive Programming  
   <a href="https://codeforces.com/profile/samuka7abrr">
     <span style="vertical-align:middle; line-height:1;">
@@ -32,9 +32,19 @@
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **DevSecOps (learning) & Infrastructure**
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Back-End**
+<p align="left">
+  <img src="https://img.shields.io/badge/-NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/-Fastify-333333?style=for-the-badge&logo=fastify&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+</p>
+
+---
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:20px;height:20px;vertical-align:middle;filter:grayscale(1) brightness(0) invert(1);" /> **DevOps (learning) & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=for-the-badge&logo=github-actions" />
   <img src="https://img.shields.io/badge/-Shell_Scripting-333333?style=for-the-badge&logo=gnu-bash" />
 </p>
