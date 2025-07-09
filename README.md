@@ -87,7 +87,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=for-the-badge&logo=styled-components" />
-  <img src="https://img.shields.io/badge/-Framer_Motion-333333?style=for-the-badge&logo=framer" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=cian" />
 </p>
 
 ---
