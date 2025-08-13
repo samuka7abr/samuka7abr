@@ -1,100 +1,87 @@
-# **Hi there! I'm Samuel**
-### **Software Engineering Student | Back-End Focused + DevOps Enthusiast**
+# **Hi there! I'm Samuel** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### **Software Engineer | DevOps👨‍💻**
+### **Passionate about competitive programming🔥**  
+[![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=samuka7abrr)](https://codeforces.com/profile/samuka7abrr)
 
 ---
 
-## 🚀 **About Me**
-- 🎓 Currently in the 4th semester of **Software Engineering**
-- 🔐 Focused on **Back-End Development** and learning **DevOps**
-- 🔥 Passionate about Competitive Programming  
-  <a href="https://codeforces.com/profile/samuka7abrr">
-    <span style="vertical-align:middle; line-height:1;">
-      <img 
-        src="https://codeforces-readme-stats.vercel.app/api/badge?username=samuka7abrr&style=for-the-badge" 
-        alt="Codeforces Badge" 
-        style="vertical-align:middle; display:inline-block; line-height:1;"
-      />
-    </span>
-  </a>
-- 🛠️ **Tech Stack:**
+## 🛠️ **Tech Stack:**
 
 ---
 
-### **💻 Programming Languages**
+### 💻 **Programming Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/-SQL-333333?style=for-the-badge&logo=postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Back-End**
+### 🖥️ **Back-End**
 <p align="left">
-  <img src="https://img.shields.io/badge/-NestJS-333333?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
-  <img src="https://img.shields.io/badge/-Fastify-333333?style=for-the-badge&logo=fastify&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/-Flask-333333?style=for-the-badge&logo=flask&logoColor=FFFFFF" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 💲**DevOps (learning) & Infrastructure**
+### ⚙️ **DevOps & Infrastructure** *(learning)*
 <p align="left">
-  <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq&logoColor=FF6600" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=for-the-badge&logo=github-actions" />
-  <img src="https://img.shields.io/badge/-Shell_Scripting-333333?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Databases**
+### 🗄️ **Databases**
 <p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-Knex.js-333333?style=for-the-badge&logo=knex.js" />
-  <img src="https://img.shields.io/badge/-Prisma-333333?style=for-the-badge&logo=prisma&logoColor=282B6B" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Tools & Version Control**
+### 🛠️ **Tools & Version Control**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/-Insomnia-333333?style=for-the-badge&logo=insomnia" />
-  <img src="https://img.shields.io/badge/-VSCode-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim&logoColor=019733" />
-  <img src="https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Operating Systems**
+### 🐧 **Operating Systems**
 <p align="left">
-  <img src="https://img.shields.io/badge/-Debian-333333?style=for-the-badge&logo=debian&logoColor=A80030" />
-  <img src="https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu" />
-  <img src="https://img.shields.io/badge/-Windows_10-333333?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/-Rocky_Linux-333333?style=for-the-badge&logo=rocky-linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:20px; height:20px; vertical-align:middle;" /> **Frontend Essentials**
+### 🎨 **Frontend Essentials**
 <p align="left">
-  <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-React_Native-333333?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-CSS--in--JS-333333?style=for-the-badge&logo=styled-components" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-333333?style=for-the-badge&logo=tailwindcss&logoColor=cian" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 ## 📈 **GitHub Stats**
-
 <div align="center">  
   <a href="https://github.com/samuka7abr">  
     <img height="220em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/>  
@@ -107,8 +94,11 @@
 
 ---
 
-## 🌍 **Contact**
+<details>
+  <summary>🌍 <b>Contact</b></summary>
 
-- 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
-- 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
-- 🌐 **Portfolio:** [Visit here](https://portifolio-lyart-three-23.vercel.app)
+  - 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
+  - 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
+  - 🌐 **Portfolio:** [Visit here](https://portifolio-lyart-three-23.vercel.app)  
+
+</details>
