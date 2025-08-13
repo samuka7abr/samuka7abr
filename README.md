@@ -32,7 +32,7 @@
 
 ---
 
-### ⚙️ **DevOps & Infrastructure** *(learning)*
+### ⚙️ **DevOps & Infrastructure** 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" />        
