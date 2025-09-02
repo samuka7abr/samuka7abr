@@ -88,7 +88,7 @@
 ## 📈 **GitHub Stats**
 <div align="center">  
   <a href="https://github.com/samuka7abr">  
-    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=false"/>  
+    <img height="220em" src="https://github-readme-stats.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/>  
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=blade,css,html&langs_count=190&exclude_repo=Monitoria-EDA&layout=compact&theme=dark"/>
   </a>  
 </div>
