@@ -92,9 +92,7 @@
     <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuka7abr&hide=blade,css,html&langs_count=198&exclude_repo=Monitoria-EDA&layout=compact&theme=dark"/>
   </a>  
 </div>
-<p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuka7abr&hide_border=true&bg_color=151515&color=FFFFFF&line=2ECC71&point=2ECC71&area_color=1ABC9C" width="100%" alt="Contribution Graph" />
-</p>
+
 
 ---
 
