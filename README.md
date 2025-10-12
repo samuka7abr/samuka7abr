@@ -104,6 +104,6 @@
 
   - 📫 **Email:** [abrao.sam.2006@gmail.com](mailto:abrao.sam.2006@gmail.com)  
   - 💼 **LinkedIn:** [Samuel Abrão](https://www.linkedin.com/in/samuel-abr%C3%A3o-0655a12ba/)  
-  - 🌐 **Portfolio:** [samuelabrao.is-a.dev](samuelabrao.is-a.dev)  
+  - 🌐 **Portfolio:** [samuelabrao.is-a.dev](https://samuelabrao.is-a.dev)  
 
 </details>
