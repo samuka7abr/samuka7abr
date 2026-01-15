@@ -93,7 +93,7 @@
 ## 📈 **GitHub Stats**
 <div align="center">  
   <a href="https://github.com/samuka7abr"> 
-    <img height="220em" src="https://github-stats-gilt-eta.vercel.app/api?username=samuka7abr&show_icons=true&theme=dark&count_private=true"/>  
+    <img height="220em" src="https://github-stats-gilt-eta.vercel.app/api?username=samuka7abr&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>  
     <img height="220em" src="https://github-stats-gilt-eta.vercel.app/api/top-langs/?username=samuka7abr&langs_count=40&layout=compact&theme=dark"/>
   </a>  
   <p align="center">
