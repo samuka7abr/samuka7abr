@@ -94,7 +94,7 @@
 <div align="center">  
   <a href="https://github.com/samuka7abr"> 
     <img height="220em" src="https://github-stats-gilt-eta.vercel.app/api?username=samuka7abr&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>  
-    <img height="220em" src="https://github-stats-gilt-eta.vercel.app/api/top-langs/?username=samuka7abr&langs_count=40&layout=compact&theme=dark"/>
+    <img height="220em" src="https://github-stats-gilt-eta.vercel.app/api/top-langs/?username=samuka7abr&langs_count=44&layout=compact&theme=dark&hide=markdown,jupyter%20notebook,tex,plpgsql"/>
   </a>  
   <p align="center">
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuka7abr&hide_border=true&bg_color=151515&color=FFFFFF&line=2ECC71&point=2ECC71&area_color=1ABC9C" width="100%" alt="Contribution Graph" />
