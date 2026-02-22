@@ -22,7 +22,8 @@
 
 **DevOps & Infrastructure**
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,terraform,docker,kubernetes,aws" height="36"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,terraform" height="36"/> <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" height="36"/>
 </p>
 
 **OS**
