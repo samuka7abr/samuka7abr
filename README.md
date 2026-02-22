@@ -38,9 +38,7 @@
   <img height="180em" src="https://github-stats-gilt-eta.vercel.app/api?username=samuka7abr&show_icons=true&include_all_commits=true&theme=dark&count_private=false"/>
   <img height="180em" src="https://github-stats-gilt-eta.vercel.app/api/top-langs/?username=samuka7abr&langs_count=47&layout=compact&theme=dark&hide=markdown,jupyter%20notebook,tex,plpgsql"/>
   <br/>
-  <picture>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuka7abr&hide_border=true&bg_color=151515&color=FFFFFF&line=2ECC71&point=2ECC71&area_color=1ABC9C" width="700" alt="Contribution Graph" />
-  </picture>
+  <img height="180em" src="https://streak-stats.demolab.com?user=samuka7abr&theme=dark&hide_border=true&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71"/>
 </div>
 
 ---
