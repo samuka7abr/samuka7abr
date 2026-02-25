@@ -4,7 +4,6 @@
 ---
 
 ### Tech Stack
-
 **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=ts,go,python,cpp" height="36"/>
@@ -17,7 +16,7 @@
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="36"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch" height="36"/>
 </p>
 
 **DevOps & Infrastructure**
