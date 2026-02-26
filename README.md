@@ -11,7 +11,8 @@
 
 **Back-End**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,flask" height="36"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,flask" height="36"/> <br/>
+  <img src="https://skillicons.dev/icons?i=bun,django,laravel,express" height="36"/>
 </p>
 
 **Databases**
@@ -22,7 +23,7 @@
 **DevOps & Infrastructure**
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,grafana,terraform" height="36"/> <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,bash" height="36"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,prometheus" height="36"/>
 </p>
 
 **OS**
