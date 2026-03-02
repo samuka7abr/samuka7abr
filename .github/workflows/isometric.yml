@@ -1,4 +1,4 @@
-name: Generate Isometric Contributions
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -13,34 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '22'
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: samuka7abr
 
-      - name: Install system dependencies
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            libcairo2-dev \
-            libjpeg-dev \
-            libpango1.0-dev \
-            libgif-dev \
-            librsvg2-dev \
-            pkg-config
-
-      - name: Clone generator
-        run: |
-          git clone https://github.com/Spectrewolf8/isometric-contributions-embeds.git
-          cd isometric-contributions-embeds
-          npm install
-          npm run generate -- samuka7abr none ../isometric.svg
-
-      - name: Commit
+      - name: Commit & Push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add isometric.svg
-          git commit -m "update isometric contributions" || echo "no changes"
+          git add profile-3d-contrib
+          git commit -m "update 3d contribution graph" || echo "no changes"
           git push
