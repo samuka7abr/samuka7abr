@@ -19,6 +19,17 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libcairo2-dev \
+            libjpeg-dev \
+            libpango1.0-dev \
+            libgif-dev \
+            librsvg2-dev \
+            pkg-config
+
       - name: Clone generator
         run: |
           git clone https://github.com/Spectrewolf8/isometric-contributions-embeds.git
