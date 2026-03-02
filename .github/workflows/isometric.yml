@@ -13,25 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: Clone isometric-contributions-embeds
+      - name: Clone generator
         run: |
           git clone https://github.com/Spectrewolf8/isometric-contributions-embeds.git
           cd isometric-contributions-embeds
           npm install
-          npm run generate -- samuka7abr ../isometric.svg
+          npm run generate -- samuka7abr none ../isometric.svg
 
-      - name: Commit and push
+      - name: Commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add isometric.svg
-          git commit -m "update isometric contributions" || exit 0
+          git commit -m "update isometric contributions" || echo "no changes"
           git push
