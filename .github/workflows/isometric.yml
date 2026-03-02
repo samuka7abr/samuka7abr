@@ -26,8 +26,7 @@ jobs:
           git clone https://github.com/Spectrewolf8/isometric-contributions-embeds.git
           cd isometric-contributions-embeds
           npm install
-          npm run generate -- samuka7abr isometric.svg
-          mv isometric.svg ../isometric.svg
+          npm run generate -- samuka7abr ../isometric.svg
 
       - name: Commit and push
         run: |
