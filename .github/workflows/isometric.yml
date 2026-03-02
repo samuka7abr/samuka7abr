@@ -1,0 +1,33 @@
+name: Generate Isometric Contributions
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clone isometric repo
+        run: |
+          git clone https://github.com/jasonlong/isometric-contributions.git
+          cd isometric-contributions
+          npm install
+          node index.js samuka7abr
+          mv samuka7abr.svg ../isometric.svg
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add isometric.svg
+          git commit -m "update isometric contributions" || exit 0
+          git push

@@ -39,7 +39,7 @@
   <img height="180em" src="https://github-stats-gilt-eta.vercel.app/api?username=samuka7abr&show_icons=true&include_all_commits=true&theme=dark&count_private=false"/>
   <img height="180em" src="https://github-stats-gilt-eta.vercel.app/api/top-langs/?username=samuka7abr&langs_count=48&layout=compact&theme=dark&hide=markdown,jupyter%20notebook,tex,plpgsql"/>
   <br/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=samuka7abr&theme=dark&hide_border=true&ring=234e93&fire=3B82F6&currStreakLabel=3B82F6"/>
+  <img src="isometric.svg" />
 </div>
 
 ---
