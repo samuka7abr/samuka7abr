@@ -16,13 +16,18 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Clone isometric repo
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Clone isometric-contributions-embeds
         run: |
-          git clone https://github.com/jasonlong/isometric-contributions.git
-          cd isometric-contributions
+          git clone https://github.com/Spectrewolf8/isometric-contributions-embeds.git
+          cd isometric-contributions-embeds
           npm install
-          node index.js samuka7abr
-          mv samuka7abr.svg ../isometric.svg
+          npm run generate -- samuka7abr isometric.svg
+          mv isometric.svg ../isometric.svg
 
       - name: Commit and push
         run: |
