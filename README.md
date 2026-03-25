@@ -6,7 +6,7 @@
 ### Tech Stack
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,go,python,cpp" height="36"/>
+  <img src="https://skillicons.dev/icons?i=ts,go,python,c" height="36"/>
 </p>
 
 **Back-End**
