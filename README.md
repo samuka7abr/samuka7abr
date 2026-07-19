@@ -32,18 +32,21 @@
 </p>
 
 ---
-
+<!--
 ### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-stats-gilt-eta.vercel.app/api?username=samuka7abr&show_icons=true&include_all_commits=true&theme=dark&count_private=true"/>
   <img height="180em" src="https://github-stats-gilt-eta.vercel.app/api/top-langs/?username=samuka7abr&langs_count=188&layout=compact&theme=dark&hide=markdown,jupyter%20notebook,tex,plpgsql,css,html,php,java,lua,javascript,GDB,Mako"/>
+
   <p align="center">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuka7abr&theme=react-dark" width="100%" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuka7abr&theme=react-dark" width="100%" alt="Contribution Graph" />
   </p>
 </div>
 
 ---
+-->
+
 
 <details>
 <summary><b>📫 Contact</b></summary>
